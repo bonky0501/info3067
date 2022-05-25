@@ -1,0 +1,156 @@
+[{
+		"Id": "DIOR-01",
+		"BrandId": 2,
+		"ProductName": "Dior Homme Sport",
+		"GraphicName": "diorhoommesport.png",
+		"CostPrice": 130.0000,
+		"MSRP": 147.0000,
+		"QtyOnHand": 4,
+		"QtyOnBackOrder": 12,
+		"Description": "This perfume is a combination of woody and citrus scent with warm and spicy feelings."
+	},
+	{
+		"Id": "DIOR-02",
+		"BrandId": 2,
+		"ProductName": "Dior Fahrenheit",
+		"GraphicName": "diorfahrenheit.png",
+		"CostPrice": 120.0000,
+		"MSRP": 134.0000,
+		"QtyOnHand": 9,
+		"QtyOnBackOrder": 5,
+		"Description": "This perfume has a distinguished scent with the notes of bergamot and Violet with Cedar."
+	}, {
+		"Id": "DIOR-03",
+		"BrandId": 2,
+		"ProductName": "Dior Sauvage Eau de Parfum",
+		"GraphicName": "eaudeparfum.png",
+		"CostPrice": 140.0000,
+		"MSRP": 160.0000,
+		"QtyOnHand": 20,
+		"QtyOnBackOrder": 34,
+		"Description": "This perfume has the mysterious facets added by the spicy of bergmot and wrapped in the smoky accents of vanila."
+
+	}, {
+		"Id": "DIOR-04",
+		"BrandId": 2,
+		"ProductName": "Dior Sauvage Eau de Toilette",
+		"GraphicName": "eaudetoilette.png",
+		"CostPrice": 120.0000,
+		"MSRP": 134.0000,
+		"QtyOnHand": 12,
+		"QtyOnBackOrder": 46,
+		"Description": "The composition of woody and earthy scents bring out the raw and nobility on the men."
+	}, {
+		"Id": "DIOR-05",
+		"BrandId": 2,
+		"ProductName": "Dior Homme Cologne",
+		"GraphicName": "diorhommecologne.png",
+		"CostPrice": 130.0000,
+		"MSRP": 147.0000,
+		"QtyOnHand": 8,
+		"QtyOnBackOrder": 0,
+		"Description": "This perfume creates a elegant scent by the result of the blend of fresh citrus and fruits."
+	}, {
+		"Id": "REP-01",
+		"BrandId": 1,
+		"ProductName": "Sailing Day",
+		"GraphicName": "sailingday.png",
+		"CostPrice": 150.0000,
+		"MSRP": 175.0000,
+		"QtyOnHand": 4,
+		"QtyOnBackOrder": 20,
+		"Description": "A perfume represents the fresh scent of the deep ocean."
+	}, {
+		"Id": "REP-02",
+		"BrandId": 1,
+		"ProductName": "By the Fireplace",
+		"GraphicName": "bythefireplace.png",
+		"CostPrice": 150.0000,
+		"MSRP": 175.0000,
+		"QtyOnHand": 1,
+		"QtyOnBackOrder": 6,
+		"Description": "A perfume represents the warm and woody scent as being around a fireplace."
+	}, {
+		"Id": "REP-03",
+		"BrandId": 1,
+		"ProductName": "Coffee Break",
+		"GraphicName": "coffebreak.png",
+		"CostPrice": 150.0000,
+		"MSRP": 175.0000,
+		"QtyOnHand": 3,
+		"QtyOnBackOrder": 10,
+		"Description": "A perfume represents the creamy coffee scent with light lavender scent as getting a creamy coffee in the shop."
+	}, {
+		"Id": "REP-04",
+		"BrandId": 1,
+		"ProductName": "Matcha Meditation",
+		"GraphicName": "matchameditation.png",
+		"CostPrice": 150.0000,
+		"MSRP": 175.0000,
+		"QtyOnHand": 2,
+		"QtyOnBackOrder": 8,
+		"Description": "A perfume represents the zen scents with matcha tea giving a pleasant note to the place."
+	}, {
+		"Id": "REP-05",
+		"BrandId": 1,
+		"ProductName": "Jazz Club",
+		"GraphicName": "jazzclub.png",
+		"CostPrice": 150.0000,
+		"MSRP": 175.0000,
+		"QtyOnHand": 0,
+		"QtyOnBackOrder": 14,
+		"Description": "A perfume represents with cigars and leather scents in a Jazz club."
+	}, {
+		"Id": "YSL-01",
+		"BrandId": 3,
+		"ProductName": "Y Eau Fraiche",
+		"GraphicName": "yeaufraiche.png",
+		"CostPrice": 120.0000,
+		"MSRP": 133.0000,
+		"QtyOnHand": 5,
+		"QtyOnBackOrder": 2,
+		"Description": "This perfume contains frozen Lemon and cedarwood key notes make the scent of fresh citrus and fruits stand out. "
+	}, {
+		"Id": "YSL-02",
+		"BrandId": 3,
+		"ProductName": "Eau de Parfum",
+		"GraphicName": "Yyeaudefarfum.png",
+		"CostPrice": 140.0000,
+		"MSRP": 158.0000,
+		"QtyOnHand": 23,
+		"QtyOnBackOrder": 1,
+		"Description": "The combination of citrus and woods makes this perfume seductive with revitalizing notes attracting other people."
+	}, {
+		"Id": "YSL-03",
+		"BrandId": 3,
+		"ProductName": "Y Eau de Toilette",
+		"GraphicName": "yeaudetoilette.png",
+		"CostPrice": 120.0000,
+		"MSRP": 133.0000,
+		"QtyOnHand": 4,
+		"QtyOnBackOrder": 31,
+		"Description": "With Lavender and geranium, this perfume gives a fresh and clean scent on men who wear it."
+	}, {
+		"Id": "YSL-04",
+		"BrandId": 3,
+		"ProductName": "La Nuit De L'Homme",
+		"GraphicName": "lanuitdelhomme.png",
+		"CostPrice": 120.0000,
+		"MSRP": 133.0000,
+		"QtyOnHand": 5,
+		"QtyOnBackOrder": 12,
+		"Description": "Men who use this will have a cool spices scent created by cedarwood, giving a intensive and bold sensuality to surroundings."
+	}, {
+		"Id": "YSL-05",
+		"BrandId": 3,
+		"ProductName": "L'Homme Cologne Bleue",
+		"GraphicName": "lhommebleue.png",
+		"CostPrice": 120.0000,
+		"MSRP": 133.0000,
+		"QtyOnHand": 5,
+		"QtyOnBackOrder": 19,
+		"Description": "This perfume is a fresh and aquatic interpretaion with the coolness of fress citrus and marine accord."
+	}
+
+
+]
