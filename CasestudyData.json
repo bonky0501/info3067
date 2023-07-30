@@ -1,156 +1,160 @@
-[{
-		"Id": "DIOR-01",
+[
+{
+		"Id": "KIRK-01",
 		"BrandId": 2,
-		"ProductName": "Dior Homme Sport",
-		"GraphicName": "diorhoommesport.png",
-		"CostPrice": 130.0000,
-		"MSRP": 147.0000,
+		"ProductName": "Omega-3 1200mg",
+		"GraphicName": "kirkomega3.jpg",
+		"CostPrice": 20.00,
+		"MSRP": 39.00,
 		"QtyOnHand": 4,
 		"QtyOnBackOrder": 12,
-		"Description": "This perfume is a combination of woody and citrus scent with warm and spicy feelings."
+		"Description": "OMEGA-3 in 1,200 mg per softgels with the amount of 500mg EPA and 250mg DHA."
 	},
 	{
-		"Id": "DIOR-02",
-		"BrandId": 2,
-		"ProductName": "Dior Fahrenheit",
-		"GraphicName": "diorfahrenheit.png",
-		"CostPrice": 120.0000,
-		"MSRP": 134.0000,
+		"Id": "KIRK-02",
+		"BrandId": 1,
+		"ProductName": "Vitamin C 500mg",
+		"GraphicName": "kirkvitaminC.jpg",
+		"CostPrice": 15.00,
+		"MSRP": 30.00,
 		"QtyOnHand": 9,
 		"QtyOnBackOrder": 5,
-		"Description": "This perfume has a distinguished scent with the notes of bergamot and Violet with Cedar."
+		"Description": "Each 500mg tablets contains Vitamin C that helps support body's immune system, improve body's healh and skin."
 	}, {
-		"Id": "DIOR-03",
+		"Id": "KIRK-03",
 		"BrandId": 2,
-		"ProductName": "Dior Sauvage Eau de Parfum",
-		"GraphicName": "eaudeparfum.png",
-		"CostPrice": 140.0000,
-		"MSRP": 160.0000,
+		"ProductName": "Vitamin B12 1200mg",
+		"GraphicName": "kirkvitaminB12.jpg",
+		"CostPrice": 10.00,
+		"MSRP": 20.00,
 		"QtyOnHand": 20,
 		"QtyOnBackOrder": 34,
-		"Description": "This perfume has the mysterious facets added by the spicy of bergmot and wrapped in the smoky accents of vanila."
-
+		"Description": "Each 1200mg tablets have decent amount of B12 which is known for helping in energy metabolism in the body and form red blood cells."
 	}, {
-		"Id": "DIOR-04",
+		"Id": "KIRK-04",
 		"BrandId": 2,
-		"ProductName": "Dior Sauvage Eau de Toilette",
-		"GraphicName": "eaudetoilette.png",
-		"CostPrice": 120.0000,
-		"MSRP": 134.0000,
+		"ProductName": "Adult Muti-Vitamin Gummies",
+		"GraphicName": "kirkadultvitgummies.jpg",
+		"CostPrice": 10.00,
+		"MSRP": 20.00,
 		"QtyOnHand": 12,
 		"QtyOnBackOrder": 46,
-		"Description": "The composition of woody and earthy scents bring out the raw and nobility on the men."
+		"Description": "Each gummies has several essental Vitamins for body with Cherry, Orange and Mixed Berry flavour."
 	}, {
-		"Id": "DIOR-05",
-		"BrandId": 2,
-		"ProductName": "Dior Homme Cologne",
-		"GraphicName": "diorhommecologne.png",
-		"CostPrice": 130.0000,
-		"MSRP": 147.0000,
+		"Id": "KIRK-05",
+		"BrandId":21,
+		"ProductName": "Calcium Citrate, Magnesium and Zinc",
+		"GraphicName": "calmagzin.jpg",
+		"CostPrice": 12.00,
+		"MSRP": 25.00,
 		"QtyOnHand": 8,
 		"QtyOnBackOrder": 0,
-		"Description": "This perfume creates a elegant scent by the result of the blend of fresh citrus and fruits."
+		"Description": "This product contains Magnesium and Zinc, which contribute to bone formation in body. Also, each tablets gives Calcium which is important to keep the bones strong. "
 	}, {
-		"Id": "REP-01",
+		"Id": "WEBB-01",
 		"BrandId": 1,
-		"ProductName": "Sailing Day",
-		"GraphicName": "sailingday.png",
-		"CostPrice": 150.0000,
-		"MSRP": 175.0000,
+		"ProductName": "Omega 3-6-9 1200mg",
+		"GraphicName": "webbomega369.jpg",
+		"CostPrice": 15.0000,
+		"MSRP": 30.0000,
 		"QtyOnHand": 4,
 		"QtyOnBackOrder": 20,
-		"Description": "A perfume represents the fresh scent of the deep ocean."
+		"Description": "A product provide  Omega 3-6-9 in 1200mg sofgels. With the fatty acids supplied, this product promote healthy cardiovascular and cognitive function of the body."
 	}, {
-		"Id": "REP-02",
+		"Id": "WEBB-02",
 		"BrandId": 1,
-		"ProductName": "By the Fireplace",
-		"GraphicName": "bythefireplace.png",
-		"CostPrice": 150.0000,
-		"MSRP": 175.0000,
+		"ProductName": "Probiotic 10 Billion",
+		"GraphicName": "probiotic10B.jpg",
+		"CostPrice": 10.0000,
+		"MSRP": 17.0000,
 		"QtyOnHand": 1,
 		"QtyOnBackOrder": 6,
-		"Description": "A perfume represents the warm and woody scent as being around a fireplace."
+		"Description": "Each capsules is filled with 5 probiotic strains that assist the function of small intestine and colon, also helps support gastrointestinal health."
 	}, {
-		"Id": "REP-03",
+		"Id": "WEBB-03",
 		"BrandId": 1,
-		"ProductName": "Coffee Break",
-		"GraphicName": "coffebreak.png",
-		"CostPrice": 150.0000,
-		"MSRP": 175.0000,
+		"ProductName": "Vitamin 2500 IU",
+		"GraphicName": "webbvitD3.jpg",
+		"CostPrice": 3.0000,
+		"MSRP": 10.0000,
 		"QtyOnHand": 3,
 		"QtyOnBackOrder": 10,
-		"Description": "A perfume represents the creamy coffee scent with light lavender scent as getting a creamy coffee in the shop."
+		"Description": "Vitamin D3 in each softgels helps body with the process of absorbing Calcium. This product also prevents body from Vitamin D deficiency."
 	}, {
-		"Id": "REP-04",
+		"Id": "WEBB-04",
 		"BrandId": 1,
-		"ProductName": "Matcha Meditation",
-		"GraphicName": "matchameditation.png",
-		"CostPrice": 150.0000,
-		"MSRP": 175.0000,
+		"ProductName": "Collagen 30 with Biotin",
+		"GraphicName": "collagenwbiotin.jpg",
+		"CostPrice": 15.0000,
+		"MSRP": 30.0000,
 		"QtyOnHand": 2,
 		"QtyOnBackOrder": 8,
-		"Description": "A perfume represents the zen scents with matcha tea giving a pleasant note to the place."
+		"Description": "This product helps in reducing fine facial lines and eye wrinkles. With the Collagen provided, each tablets will help impove youthful looking skin. Besides, Biotin will enhance healthy nails, hair and skin."
 	}, {
-		"Id": "REP-05",
+		"Id": "WEBB-05",
 		"BrandId": 1,
-		"ProductName": "Jazz Club",
-		"GraphicName": "jazzclub.png",
-		"CostPrice": 150.0000,
-		"MSRP": 175.0000,
+		"ProductName": "Blueberry 500mg",
+		"GraphicName": "webbbluberry.jpg",
+		"CostPrice": 10.0000,
+		"MSRP": 20.0000,
 		"QtyOnHand": 0,
 		"QtyOnBackOrder": 14,
-		"Description": "A perfume represents with cigars and leather scents in a Jazz club."
+		"Description": "This product provides a high amount of blueberry concentration that is helpful in fighting the radicals which accelerate desease and aging. Furthermore, blueberry is good for the maintenance of good health."
 	}, {
-		"Id": "YSL-01",
+		"Id": "JAMI-01",
 		"BrandId": 3,
-		"ProductName": "Y Eau Fraiche",
-		"GraphicName": "yeaufraiche.png",
-		"CostPrice": 120.0000,
-		"MSRP": 133.0000,
+		"ProductName": "Vitamin K2 120mg + D3 1000IU",
+		"GraphicName": "jamivitK2D3.jpg",
+		"CostPrice": 6.0000,
+		"MSRP": 15.0000,
 		"QtyOnHand": 5,
 		"QtyOnBackOrder": 2,
-		"Description": "This perfume contains frozen Lemon and cedarwood key notes make the scent of fresh citrus and fruits stand out. "
+		"Description": "This product is the perfect combination when D3 is essential for Calcium absorption then Vitamin K will help retain that Calcium in the bones."
 	}, {
-		"Id": "YSL-02",
+		"Id": "JAMI-02",
 		"BrandId": 3,
-		"ProductName": "Eau de Parfum",
-		"GraphicName": "Yyeaudefarfum.png",
-		"CostPrice": 140.0000,
-		"MSRP": 158.0000,
+		"ProductName": "Stress Ease",
+		"GraphicName": "stressease.jpg",
+		"CostPrice": 5.0000,
+		"MSRP": 15.0000,
 		"QtyOnHand": 23,
 		"QtyOnBackOrder": 1,
-		"Description": "The combination of citrus and woods makes this perfume seductive with revitalizing notes attracting other people."
+		"Description": "Jamieson StressEase provides a good amount of B Vitamins to promote nervous system. It also helps in maintaining the health of immune system."
 	}, {
-		"Id": "YSL-03",
+		"Id": "JAMI-03",
 		"BrandId": 3,
-		"ProductName": "Y Eau de Toilette",
-		"GraphicName": "yeaudetoilette.png",
-		"CostPrice": 120.0000,
-		"MSRP": 133.0000,
+		"ProductName": "Gentle Iron",
+		"GraphicName": "gentleiron.jpg",
+		"CostPrice": 6.0000,
+		"MSRP": 10.0000,
 		"QtyOnHand": 4,
 		"QtyOnBackOrder": 31,
-		"Description": "With Lavender and geranium, this perfume gives a fresh and clean scent on men who wear it."
+		"Description": "Each caplets of this product contains a combination of iron, folic acid, and some other Vitamin. This combination is greate for the enhancement for absorption process and preventing Iron deficiency."
 	}, {
-		"Id": "YSL-04",
+		"Id": "JAMI-04",
 		"BrandId": 3,
-		"ProductName": "La Nuit De L'Homme",
-		"GraphicName": "lanuitdelhomme.png",
-		"CostPrice": 120.0000,
-		"MSRP": 133.0000,
+		"ProductName": "Relax and Sleep",
+		"GraphicName": "relaxsleep.jpg",
+		"CostPrice": 5.0000,
+		"MSRP": 15.0000,
 		"QtyOnHand": 5,
 		"QtyOnBackOrder": 12,
-		"Description": "Men who use this will have a cool spices scent created by cedarwood, giving a intensive and bold sensuality to surroundings."
+		"Description": "This product promotes restful sleep and reduce nervousness."
 	}, {
-		"Id": "YSL-05",
+		"Id": "JAMI-05",
 		"BrandId": 3,
-		"ProductName": "L'Homme Cologne Bleue",
-		"GraphicName": "lhommebleue.png",
-		"CostPrice": 120.0000,
-		"MSRP": 133.0000,
+		"ProductName": "Salmon & Firsh Oils",
+		"GraphicName": "salmonandfishoils.jpg",
+		"CostPrice": 9.0000,
+		"MSRP": 22.0000,
 		"QtyOnHand": 5,
 		"QtyOnBackOrder": 19,
-		"Description": "This perfume is a fresh and aquatic interpretaion with the coolness of fress citrus and marine accord."
+		"Description": "By having 3 fatty acids capsuled inside the softgels, this product helps to maintain a good health. Also, this supports cognitive health and brain functions."
 	}
 
 
 ]
+
+
+
+
