@@ -42,7 +42,7 @@
 		"Description": "Each gummies has several essental Vitamins for body with Cherry, Orange and Mixed Berry flavour."
 	}, {
 		"Id": "KIRK-05",
-		"BrandId":21,
+		"BrandId": 2,
 		"ProductName": "Calcium Citrate, Magnesium and Zinc",
 		"GraphicName": "calmagzin.jpg",
 		"CostPrice": 12.00,
