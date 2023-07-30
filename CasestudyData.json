@@ -12,7 +12,7 @@
 	},
 	{
 		"Id": "KIRK-02",
-		"BrandId": 1,
+		"BrandId": 2,
 		"ProductName": "Vitamin C 500mg",
 		"GraphicName": "kirkvitaminC.jpg",
 		"CostPrice": 15.00,
